@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/marker"
+            android:title="Hoang App"/>
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/marker1"
+            android:title="Java App"/>
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/marker2"
+            android:title="Kotlin App"/>
+    </group>
+
+</menu>
